@@ -1,5 +1,5 @@
 # MovieDB-app-SwiftUI
-Movie DataBase app made with swiftUI
+
 
 A Movie Database app made with SwiftUI
 
